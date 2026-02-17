@@ -3136,7 +3136,7 @@ textarea.form-control-lg {
     -moz-user-select: none;
     user-select: none;
     border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
-    border-radius: var(--bs-btn-border-radius);
+    border-radius: 24px;
     background-color: var(--bs-btn-bg);
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
 }
